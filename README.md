@@ -1,3 +1,3 @@
 # Algos
 
-Data Structure and Algorithms Multi Solution
+Data Structure and Algorithms's Multi Solution
