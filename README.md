@@ -1,3 +1,3 @@
-# AlgoCasts
+# Algos
 
-Companion repo to a course on Udemy.com
+Data Structure and Algorithms Multi Solution
